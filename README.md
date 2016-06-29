@@ -50,3 +50,14 @@ Un de las grandes virtudes de ai2html es la posibilidad de exportar nuestros gra
 ## Recursos
 1. [QGIS](http://www.qgis.org/es/site/) programa libre para crear mapas vectoriales con archivos shape (```.shp```).
 2. [svg Crowbar](http://nytimes.github.io/svg-crowbar/) permite descargar svg's de cualquier página.  
+
+## Ejemplos
+[What China Has Been Building in the South China Sea](http://www.nytimes.com/interactive/2015/07/30/world/asia/what-china-has-been-building-in-the-south-china-sea.html), The New York Times.    
+[Boko Haram: The Other Islamic State](http://www.nytimes.com/interactive/2014/12/11/world/africa/boko-haram-nigeria-maps.html), The New York Times.  
+[How one economic decision in Flint caused a health crisis](https://www.washingtonpost.com/graphics/health/flint-water-crisis/), The Washington Post.  
+[Iraqi Army Retakes Government Complex in Central Ramadi](http://www.nytimes.com/interactive/2014/06/12/world/middleeast/the-iraq-isis-conflict-in-maps-photos-and-video.html), The New York Times.    
+[Floor plans show interior of Orlando nightclub where 49 were killed](https://www.washingtonpost.com/graphics/national/orlando-shooting/), [How the Orlando Shooting Unfolded](http://graphics.wsj.com/orlando-shooting/), The Wall Street Journal.  
+[Stowaways and crimes aboard a scofflaw ship](http://www.nytimes.com/2015/07/19/world/stowaway-crime-scofflaw-ship.html), The New York Times.    
+[What Virginia says to the rest of the country](https://www.washingtonpost.com/graphics/politics/2016-election/primaries/super-tuesday-virginia-analysis/), [Why minority voters matter for Democrats in Nevada and beyond](https://www.washingtonpost.com/graphics/politics/2016-election/primaries/nevada-democratic-analysis/), The Washington Post.  
+[Zika, el punto negro de los diagnósticos](http://reportajes.elespanol.com/diagnosis/zika-punto-negro-diagnosticos/), El Español.    
+[What's that? How earbuds can wreck your hearing (especially for young people)](http://www.chicagotribune.com/news/ct-earphones-could-be-hurting-your-ears-20160229-htmlstory.html?utm_content=buffer5c0fd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), The Chicago Tribune

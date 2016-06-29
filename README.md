@@ -1,5 +1,5 @@
 # mapas y gráficos con ai2html
-### Cuando d3.js no es necesario
+d3.js? no thanks (©jk)
 
 [ai2html](http://ai2html.org/) es un plugin opensource para Adobe Illustrator desarrollado por [Archie Tse](https://twitter.com/archietse), del equipo gráfico del New York Times,
 que permite convertir nuestros proyectos illustrator en documentos ```html```.  
@@ -18,7 +18,7 @@ Es importante tener el modo de color de documento en **rgb** y no en ~~CMYK~~.
 ai2html creara un archivo html en el que todos los textos seran nodos html (```div``` con sus correspondientes estilos ```css```) y el resto de elementos (lineas, circulos, mapas, etc.) quedaran reflejados en una imagen.  
 Cuando hayamos terminado sólo tendremos que seleccionar la opción ```secuencias de comandos``` del menú ```archivo```.  
 Si no hemos podido incluirlo en la carpeta podemos seleccionar la opcion ```otra secuencia de comandos (F12)``` del mismo menu y seleccionar el script.
-Una vez exportado, aparecerá un cuadro de opciones a la izquierda de nuestra mesa de trabajo. El plugin incluye una serie de [opciones](http://ai2html.org/#settings) preestablecidas y otras *ocultas* (con unos valores por defecto). Podremos escoger número de colores del archivo *png*, calidad del *jpg*, directorio al que exportará los archivos, exportar al doble de resolucion (*retina*), etc. 
+Una vez exportado, aparecerá un cuadro de opciones a la izquierda de nuestra mesa de trabajo. El plugin incluye una serie de [opciones](http://ai2html.org/#settings) preestablecidas y otras *ocultas* (con unos valores por defecto). Podremos escoger número de colores del archivo *png*, calidad del *jpg*, directorio al que exportará los archivos, exportar al doble de resolucion (*retina*), etc.
 
 
 ## gráficos *responsive* (adaptativos)  
@@ -47,6 +47,6 @@ Un de las grandes virtudes de ai2html es la posibilidad de exportar nuestros gra
   ```<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">```
 7. Felicidades! ya sabes utilizar ai2html!  
 
-## Recursos 
+## Recursos
 1. [QGIS](http://www.qgis.org/es/site/) programa libre para crear mapas vectoriales con archivos shape (```.shp```).
 2. [svg Crowbar](http://nytimes.github.io/svg-crowbar/) permite descargar svg's de cualquier página.  

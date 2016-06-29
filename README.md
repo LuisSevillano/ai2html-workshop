@@ -23,7 +23,7 @@ Una vez exportado, aparecerá un cuadro de opciones a la izquierda de nuestra me
 
 ## gráficos *responsive* (adaptativos)  
 
-Un de las grandes virtudes de ai2html es la posibilidad de exportar nuestros graficos a diferentes tamaños. De esta manera  lograremos que nuestros diseños se vean a la perfección en todos los dispositivos. Pasos:  
+Una de las grandes virtudes de ai2html es la posibilidad de exportar nuestros graficos a diferentes tamaños. De esta manera  lograremos que nuestros diseños se vean a la perfección en todos los dispositivos. Pasos:  
 1. Crea tantas mesas de trabajo como diseños quieras obtener (deberan tener estas dimensiones en pixeles). Para escritorio unos 900-1100px, tablet 600-700px y móvil 290-320px.
 2. Descargar este [script ](https://github.com/newsdev/ai2html/blob/gh-pages/_includes/resizer-script.html) desarrollado por [Gregor Aisch ](https://twitter.com/driven_by_data). Este archivo javascript se encarga de mantener la apariencia de nuestro diseño en cada uno de los diferentes tamaños y cambiar la imagen que corresponde a cada uno.  
 3. Una vez hayamos exportado nuestro diseño deberemos editar el html e incluir este script. ai2html creará **un único** archivo ```.html``` y tantas imagenes como mesas de trabajo tengamos.  
@@ -31,7 +31,7 @@ Un de las grandes virtudes de ai2html es la posibilidad de exportar nuestros gra
 
 ## desventajas  
 
-1. A pesar de ser un pugin open-source está desarrollado para funcionar en Adobe Illustrator (software privativo).
+1. A pesar de ser un plugin open-source está desarrollado para funcionar en Adobe Illustrator (software privativo).
 2. Necesidad de desarrollar manualmente un diseño para cada uno de los dispositivos en que será visualizado.
 3. Pequeños fallos: codificación, variación en el posicionamiento de los textos, errores en las posiciones de los textos por la confusion entre decimales y puntos en los estilos css *inline*, etc.  
 

@@ -29,7 +29,11 @@ Don't forget to add your own font stack in the `ai2html` file.
 
 One of the most important features of ai2html is the ability to export our graphics to different sizes. To get started:
 
-1. Create as many artboards as sizes you need (the script will use those dimensions). For desktop something between 900 and 1100px, tablet 600-700px and phone 290-320px works well.
+1. Create as many artboards as sizes you need (the script will use those dimensions). We have found that making a graphic between these sizes works well:
+
+  - Desktop: 900-1100px
+  - Tablet: 600-700px.
+  - Phone: 290-320px.
 
 2. Download [this script](https://github.com/newsdev/ai2html/blob/gh-pages/_includes/resizer-script.html). This is the JavaScript that will switch between the different graphics according to the browser size.
 
